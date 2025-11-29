@@ -62,6 +62,11 @@ plot(Pmin,R);
 
 <img width="758" height="646" alt="image" src="https://github.com/user-attachments/assets/626f2a29-1345-49bf-ac72-0dc62ba563b7" />
 
+
+## CALCULATION:
+
+![e-1](https://github.com/user-attachments/assets/28ddd8cf-ef5c-466c-9856-7b18d4382ad4)
+
 ## RESULT:
 
 Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Scilab program.
